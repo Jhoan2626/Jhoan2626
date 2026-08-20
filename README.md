@@ -2,13 +2,11 @@
 
 # Jhoan Alexander Silva Rojas
 
-### Software Developer
+### Ingeniería de Sistemas · Full Stack Developer
 
-Construyendo soluciones web para organizaciones y empresas mediante desarrollo de software, bases de datos y tecnologías modernas.
+Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de aplicaciones web y soluciones de software.
 
-<br>
-
-Desarrollo Web • Python • Flask • Bases de Datos
+[GitHub](https://github.com/Jhoan2626) · [LinkedIn](https://linkedin.com/in/consultorjhoan)
 
 </div>
 
