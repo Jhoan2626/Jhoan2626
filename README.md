@@ -6,7 +6,10 @@
 
 Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de aplicaciones web y soluciones de software.
 
-[GitHub](https://github.com/Jhoan2626) · [LinkedIn](https://linkedin.com/in/consultorjhoan)
+<p align="center">
+<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GitHub-Jhoan2626-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LinkedIn-consultorjhoan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 </div>
 
@@ -14,9 +17,29 @@ Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de aplicaciones 
 
 ## 👨‍💻 Sobre mí
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 Mi interés está en convertir necesidades reales en soluciones funcionales. He trabajado de forma independiente construyendo aplicaciones y sitios web para organizaciones educativas y empresas, participando en todo el proceso: desde el desarrollo backend y frontend hasta el despliegue en producción.
 
 Trabajo con bases de datos como parte del desarrollo de estas soluciones y utilizo herramientas de inteligencia artificial como apoyo dentro de mi proceso de trabajo. Continúo fortaleciendo mis capacidades técnicas a medida que desarrollo nuevos proyectos.
+
+</td>
+<td width="40%" valign="top">
+
+**Formación**
+Ingeniería de Sistemas
+
+**Enfoque**
+Full Stack Development
+
+**Modalidad**
+Desarrollo independiente
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -38,61 +61,60 @@ Actualmente cuento con experiencia en:
 
 ---
 
-## Proyecto Destacado
+## 🧰 Tecnologías
+
+| Categoría | Stack |
+|---|---|
+| Lenguajes | Python · JavaScript · SQL · HTML · CSS |
+| Backend | Flask · Django |
+| Bases de datos | MySQL · MongoDB · SQL Server |
+| Herramientas | Git · GitHub · VS Code |
+| IA aplicada al desarrollo | GitHub Copilot · Claude Code · ChatGPT API |
+
+---
+
+## 🚀 Proyectos destacados
 
 ### PaginaWeb_Sostenibilidad
 
 Aplicación web desarrollada para una institución educativa con el objetivo de fortalecer la participación estudiantil en iniciativas de sostenibilidad.
 
-#### Funcionalidades principales
+**Funcionalidades principales**
 
 * Registro e inicio de sesión de usuarios
 * Panel administrativo
 * Gestión y moderación de publicaciones
-* Sistema de comentarios
-* Likes y dislikes
+* Sistema de comentarios, likes y dislikes
 * Integración con base de datos
 * Control de contenido publicado
 
-#### Tecnologías
+**Tecnologías:** Python · Flask · Django · SQL · HTML · CSS · JavaScript  
+**Repositorio:** `Repositorio próximamente`
 
-Python • Flask • Django • SQL • HTML • CSS • JavaScript
+<br>
 
----
-
-## Otros proyectos desarrollados
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### PaginaWeb_Inngloba
 
-Desarrollo de sitio web corporativo para una empresa del sector de eventos y decoración, incluyendo administración de productos y gestión de información.
+Sitio web corporativo para una empresa del sector de eventos y decoración, con administración de productos y gestión de información.
+
+**Repositorio:** `Repositorio próximamente`
+
+</td>
+<td width="50%" valign="top">
 
 ### PaginaWeb_Dismets
 
-Desarrollo de sitio web corporativo para una empresa del sector industrial enfocado en visibilidad de servicios y contacto comercial.
+Sitio web corporativo para una empresa del sector industrial, enfocado en visibilidad de servicios y contacto comercial.
 
----
+**Repositorio:** `Repositorio próximamente`
 
-## Tecnologías
-
-### Lenguajes
-
-Python • JavaScript • SQL • HTML • CSS
-
-### Backend
-
-Flask • Django
-
-### Bases de datos
-
-MySQL • MongoDB • SQL Server
-
-### Herramientas
-
-Git • GitHub • VS Code
-
-### IA aplicada al desarrollo
-
-GitHub Copilot • Claude Code • ChatGPT API
+</td>
+</tr>
+</table>
 
 ---
 
