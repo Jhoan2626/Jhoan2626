@@ -1,14 +1,18 @@
-<div align="center">
+<table width="100%">
+<tr>
+<td align="center">
 
-<!-- Recursos pendientes: ver /assets/banner y /assets/projects para imágenes por incorporar -->
+<!-- Recursos pendientes: ver /assets/banner y /assets/projects -->
 
 <br>
+
+![](https://img.shields.io/badge/DISPONIBLE%20PARA%20NUEVOS%20PROYECTOS-22C55E?style=flat-square)
+
+<br><br>
 
 # JHOAN ALEXANDER SILVA ROJAS
 
 **Ingeniería de Sistemas · Full Stack Developer**
-
-<img src="https://img.shields.io/badge/-%20-58A6FF?style=flat-square" width="120" height="4" alt=""/>
 
 <br>
 
@@ -16,39 +20,44 @@ Construyo aplicaciones y sitios web — del backend al despliegue en producción
 
 <br>
 
-<p>
-<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GitHub-Jhoan2626-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LinkedIn-consultorjhoan-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
-</p>
+<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
 
-<br>
+<br><br>
 
-</div>
+◈
+
+<sub><code>SOFTWARE × AI</code></sub>
+
+<br><br>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <br>
 
-![](https://img.shields.io/badge/01-SOBRE%20MI-58A6FF?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/01-SOBRE%20MI-00D4FF?style=flat-square&labelColor=0D1117)
 
-## Sobre mí
-
-<table>
+<table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-Estudiante de Ingeniería de Sistemas con experiencia práctica desarrollando aplicaciones y sitios web de forma independiente para organizaciones educativas y empresas — desde la construcción de la solución hasta su despliegue.
+**▍ SOBRE MÍ**
 
-Trabajo end-to-end: interfaz, lógica de backend, base de datos y puesta en producción.
+Estudiante de Ingeniería de Sistemas con experiencia práctica desarrollando aplicaciones y sitios web de forma independiente para organizaciones educativas y empresas — desde la construcción de la solución hasta su despliegue en producción.
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-| | |
-|---|---|
-| **Formación** | Ingeniería de Sistemas |
-| **Enfoque** | Full Stack Development |
-| **Modalidad** | Desarrollo independiente |
+**▍ ENFOQUE**
+
+`Full Stack`
+`Backend`
+`Databases`
+`AI-assisted development`
 
 </td>
 </tr>
@@ -60,17 +69,62 @@ Trabajo end-to-end: interfaz, lógica de backend, base de datos y puesta en prod
 
 <br>
 
-![](https://img.shields.io/badge/02-TECNOLOGIAS-58A6FF?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/02-STACK%20TECNOLOGICO-00D4FF?style=flat-square&labelColor=0D1117)
 
-## Tecnologías
+## Stack tecnológico
 
-| | |
-|---|---|
-| **Lenguajes** | `Python` `JavaScript` `SQL` `HTML` `CSS` |
-| **Backend** | `Flask` `Django` |
-| **Bases de datos** | `MySQL` `MongoDB` `SQL Server` |
-| **Herramientas** | `Git` `GitHub` `VS Code` |
-| **IA aplicada** | `GitHub Copilot` `Claude Code` `ChatGPT API` |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**▍ BACKEND**
+
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00D4FF)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=00D4FF)
+![Django](https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=00D4FF)
+
+</td>
+<td width="50%" valign="top">
+
+**▍ FRONTEND**
+
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=00D4FF)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=00D4FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=00D4FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**▍ DATABASE**
+
+![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=00D4FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=00D4FF)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-161B22?style=flat-square&logo=microsoftsqlserver&logoColor=00D4FF)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**▍ AI × DEVELOPMENT**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-161B22?style=flat-square&logo=githubcopilot&logoColor=7C3AED)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-161B22?style=flat-square&logoColor=7C3AED)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-161B22?style=flat-square&logo=openai&logoColor=7C3AED)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<sub>▍ TOOLS</sub><br>
+![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=8B949E)
+![GitHub](https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=8B949E)
+![VS Code](https://img.shields.io/badge/VS%20Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=8B949E)
+
+</div>
 
 <br>
 
@@ -78,29 +132,39 @@ Trabajo end-to-end: interfaz, lógica de backend, base de datos y puesta en prod
 
 <br>
 
-![](https://img.shields.io/badge/03-PROYECTOS-58A6FF?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/03-PROYECTOS-00D4FF?style=flat-square&labelColor=0D1117)
 
-## Proyectos destacados
+## Proyectos
 
 <sub>Soluciones desarrolladas para organizaciones y empresas reales — desde la construcción hasta el despliegue en producción.</sub>
 
 <br>
 
+<!-- TODO: agregar captura de PaginaWeb_Sostenibilidad en /assets/projects -->
+
 <table width="100%">
 <tr>
 <td align="center">
 
-<sub>⭐ PROYECTO DESTACADO</sub>
+<sub>★ PROYECTO PRINCIPAL</sub>
 
 ### PaginaWeb_Sostenibilidad
 
 Aplicación web para una institución educativa que fortalece la participación estudiantil en iniciativas de sostenibilidad.
 
-`Python` `Flask` `Django` `SQL` `HTML` `CSS` `JavaScript`
+![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00D4FF)
+![Flask](https://img.shields.io/badge/Flask-161B22?style=flat-square&logo=flask&logoColor=00D4FF)
+![Django](https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=00D4FF)
+![SQL](https://img.shields.io/badge/SQL-161B22?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=00D4FF)
+![CSS3](https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=00D4FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=00D4FF)
 
 <sub>Registro y autenticación · Panel administrativo · Moderación de publicaciones · Comentarios, likes y dislikes · Base de datos integrada</sub>
 
-<code>Repositorio próximamente</code>
+<br>
+
+<img src="https://img.shields.io/badge/Repositorio%20pr%C3%B3ximamente-21262D?style=for-the-badge" alt="Repositorio próximamente"/>
 
 </td>
 </tr>
@@ -108,24 +172,26 @@ Aplicación web para una institución educativa que fortalece la participación 
 
 <br>
 
+<!-- TODO: agregar capturas de PaginaWeb_Inngloba y PaginaWeb_Dismets en /assets/projects -->
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 **PaginaWeb_Inngloba**
 
 Sitio web corporativo para una empresa del sector de eventos y decoración, con administración de productos y gestión de información.
 
-<code>Repositorio próximamente</code>
+<img src="https://img.shields.io/badge/Repositorio%20pr%C3%B3ximamente-21262D?style=flat-square" alt="Repositorio próximamente"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 **PaginaWeb_Dismets**
 
 Sitio web corporativo para una empresa del sector industrial, enfocado en visibilidad de servicios y contacto comercial.
 
-<code>Repositorio próximamente</code>
+<img src="https://img.shields.io/badge/Repositorio%20pr%C3%B3ximamente-21262D?style=flat-square" alt="Repositorio próximamente"/>
 
 </td>
 </tr>
@@ -137,21 +203,57 @@ Sitio web corporativo para una empresa del sector industrial, enfocado en visibi
 
 <br>
 
-![](https://img.shields.io/badge/04-IA%20+%20DESARROLLO-A78BFA?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/04-IA%20+%20DESARROLLO-7C3AED?style=flat-square&labelColor=0D1117)
 
 ## IA × Desarrollo
 
+<table width="100%">
+<tr>
+<td align="center">
+
+`ANALIZAR`
+<br>↓<br>
+`CONSTRUIR`
+<br>↓<br>
+`REVISAR`
+<br>↓<br>
+`REFACTORIZAR`
+<br>↓<br>
+`DOCUMENTAR`
+
+<br><br>
+
+Utilizo inteligencia artificial como apoyo dentro de mi proceso de desarrollo, no como reemplazo de mis conocimientos.
+
+<br>
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-161B22?style=flat-square&logo=githubcopilot&logoColor=7C3AED)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-161B22?style=flat-square&logoColor=7C3AED)
+![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-161B22?style=flat-square&logo=openai&logoColor=7C3AED)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+![](https://img.shields.io/badge/05-SEGURIDAD-00D4FF?style=flat-square&labelColor=0D1117)
+
+## Seguridad y buenas prácticas
+
 <div align="center">
 
-`ANALIZAR` → `CONSTRUIR` → `REVISAR` → `REFACTORIZAR` → `DOCUMENTAR`
+🔐 `Authentication` &nbsp;&nbsp;&nbsp; 🔑 `Access Control` &nbsp;&nbsp;&nbsp; 🛡️ `Secure Development`
 
 </div>
 
 <br>
 
-Utilizo inteligencia artificial como apoyo dentro de mi proceso de desarrollo, no como reemplazo de mis conocimientos.
-
-`GitHub Copilot` `Claude Code` `ChatGPT API`
+<sub>Mis proyectos incluyen registro, autenticación y paneles administrativos con control de acceso. Sigo fortaleciendo mis conocimientos en seguridad de aplicaciones.</sub>
 
 <br>
 
@@ -159,23 +261,11 @@ Utilizo inteligencia artificial como apoyo dentro de mi proceso de desarrollo, n
 
 <br>
 
-![](https://img.shields.io/badge/05-SEGURIDAD-58A6FF?style=flat-square&labelColor=0D1117)
-
-## Seguridad y buenas prácticas
-
-Mis proyectos incluyen registro, autenticación y paneles administrativos con control de acceso. Sigo fortaleciendo mis conocimientos en seguridad de aplicaciones y buenas prácticas de desarrollo.
-
-<br>
-
----
-
-<br>
-
-![](https://img.shields.io/badge/06-APRENDIENDO-58A6FF?style=flat-square&labelColor=0D1117)
+![](https://img.shields.io/badge/06-APRENDIENDO-00D4FF?style=flat-square&labelColor=0D1117)
 
 ## Actualmente aprendiendo
 
-Sigo fortaleciendo mis bases en desarrollo Full Stack y explorando nuevas herramientas de IA aplicadas al proceso de desarrollo.
+<sub>Sigo fortaleciendo mis bases en desarrollo Full Stack y explorando nuevas herramientas de IA aplicadas al proceso de desarrollo.</sub>
 
 <br>
 
@@ -183,19 +273,15 @@ Sigo fortaleciendo mis bases en desarrollo Full Stack y explorando nuevas herram
 
 <br>
 
-![](https://img.shields.io/badge/07-CONTACTO-58A6FF?style=flat-square&labelColor=0D1117)
-
-## Contacto
-
 <div align="center">
 
-<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GitHub-Jhoan2626-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LinkedIn-consultorjhoan-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+### CONSTRUYAMOS ALGO JUNTOS
+
+<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn"/></a>
 
 <br><br>
 
 <sub>Bogotá D.C., Colombia</sub>
 
 </div>
-
-<br>
