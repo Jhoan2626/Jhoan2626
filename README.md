@@ -12,13 +12,11 @@ Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de aplicaciones 
 
 ---
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas y actualmente enfoco mi crecimiento profesional en el desarrollo de software y el desarrollo web.
+Mi interés está en convertir necesidades reales en soluciones funcionales. He trabajado de forma independiente construyendo aplicaciones y sitios web para organizaciones educativas y empresas, participando en todo el proceso: desde el desarrollo backend y frontend hasta el despliegue en producción.
 
-Lo que más me motiva es convertir necesidades reales en soluciones funcionales. Por eso he trabajado de forma independiente desarrollando aplicaciones y sitios web para organizaciones educativas y empresas, participando desde la construcción de la solución hasta su despliegue y puesta en funcionamiento.
-
-Mi objetivo es seguir creciendo como Software Developer mientras continúo desarrollando proyectos con impacto real.
+Trabajo con bases de datos como parte del desarrollo de estas soluciones y utilizo herramientas de inteligencia artificial como apoyo dentro de mi proceso de trabajo. Continúo fortaleciendo mis capacidades técnicas a medida que desarrollo nuevos proyectos.
 
 ---
 
@@ -74,17 +72,17 @@ Desarrollo de sitio web corporativo para una empresa del sector industrial enfoc
 
 ---
 
-## Stack Principal
+## Tecnologías
 
-### Desarrollo Backend
+### Lenguajes
 
-Python • Flask • Django
+Python • JavaScript • SQL • HTML • CSS
 
-### Desarrollo Frontend
+### Backend
 
-HTML • CSS • JavaScript
+Flask • Django
 
-### Bases de Datos
+### Bases de datos
 
 MySQL • MongoDB • SQL Server
 
@@ -92,9 +90,9 @@ MySQL • MongoDB • SQL Server
 
 Git • GitHub • VS Code
 
-### Desarrollo Asistido por IA
+### IA aplicada al desarrollo
 
-ChatGPT API • Claude Code • GitHub Copilot
+GitHub Copilot • Claude Code • ChatGPT API
 
 ---
 
