@@ -1,141 +1,201 @@
 <div align="center">
 
-# Jhoan Alexander Silva Rojas
+<!-- Recursos pendientes: ver /assets/banner y /assets/projects para imágenes por incorporar -->
 
-### Ingeniería de Sistemas · Full Stack Developer
+<br>
 
-Estudiante de Ingeniería de Sistemas enfocado en el desarrollo de aplicaciones web y soluciones de software.
+# JHOAN ALEXANDER SILVA ROJAS
 
-<p align="center">
-<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GitHub-Jhoan2626-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LinkedIn-consultorjhoan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+**Ingeniería de Sistemas · Full Stack Developer**
+
+<img src="https://img.shields.io/badge/-%20-58A6FF?style=flat-square" width="120" height="4" alt=""/>
+
+<br>
+
+Construyo aplicaciones y sitios web — del backend al despliegue en producción.
+
+<br>
+
+<p>
+<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GitHub-Jhoan2626-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LinkedIn-consultorjhoan-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 </p>
+
+<br>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+<br>
+
+![](https://img.shields.io/badge/01-SOBRE%20MI-58A6FF?style=flat-square&labelColor=0D1117)
+
+## Sobre mí
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-Mi interés está en convertir necesidades reales en soluciones funcionales. He trabajado de forma independiente construyendo aplicaciones y sitios web para organizaciones educativas y empresas, participando en todo el proceso: desde el desarrollo backend y frontend hasta el despliegue en producción.
+Estudiante de Ingeniería de Sistemas con experiencia práctica desarrollando aplicaciones y sitios web de forma independiente para organizaciones educativas y empresas — desde la construcción de la solución hasta su despliegue.
 
-Trabajo con bases de datos como parte del desarrollo de estas soluciones y utilizo herramientas de inteligencia artificial como apoyo dentro de mi proceso de trabajo. Continúo fortaleciendo mis capacidades técnicas a medida que desarrollo nuevos proyectos.
+Trabajo end-to-end: interfaz, lógica de backend, base de datos y puesta en producción.
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-**Formación**
-Ingeniería de Sistemas
-
-**Enfoque**
-Full Stack Development
-
-**Modalidad**
-Desarrollo independiente
+| | |
+|---|---|
+| **Formación** | Ingeniería de Sistemas |
+| **Enfoque** | Full Stack Development |
+| **Modalidad** | Desarrollo independiente |
 
 </td>
 </tr>
 </table>
-
----
-
-## Lo que me diferencia
-
-Mientras muchos estudiantes construyen proyectos únicamente para fines académicos, yo he tenido la oportunidad de desarrollar soluciones utilizadas por organizaciones y empresas reales.
-
-Actualmente cuento con experiencia en:
-
-✔ Desarrollo de aplicaciones web
-
-✔ Implementación de bases de datos
-
-✔ Despliegue de proyectos en producción
-
-✔ Desarrollo independiente para clientes
-
-✔ Uso de herramientas de IA para apoyar procesos de desarrollo
-
----
-
-## 🧰 Tecnologías
-
-| Categoría | Stack |
-|---|---|
-| Lenguajes | Python · JavaScript · SQL · HTML · CSS |
-| Backend | Flask · Django |
-| Bases de datos | MySQL · MongoDB · SQL Server |
-| Herramientas | Git · GitHub · VS Code |
-| IA aplicada al desarrollo | GitHub Copilot · Claude Code · ChatGPT API |
-
----
-
-## 🚀 Proyectos destacados
-
-### PaginaWeb_Sostenibilidad
-
-Aplicación web desarrollada para una institución educativa con el objetivo de fortalecer la participación estudiantil en iniciativas de sostenibilidad.
-
-**Funcionalidades principales**
-
-* Registro e inicio de sesión de usuarios
-* Panel administrativo
-* Gestión y moderación de publicaciones
-* Sistema de comentarios, likes y dislikes
-* Integración con base de datos
-* Control de contenido publicado
-
-**Tecnologías:** Python · Flask · Django · SQL · HTML · CSS · JavaScript  
-**Repositorio:** `Repositorio próximamente`
 
 <br>
 
-<table>
+---
+
+<br>
+
+![](https://img.shields.io/badge/02-TECNOLOGIAS-58A6FF?style=flat-square&labelColor=0D1117)
+
+## Tecnologías
+
+| | |
+|---|---|
+| **Lenguajes** | `Python` `JavaScript` `SQL` `HTML` `CSS` |
+| **Backend** | `Flask` `Django` |
+| **Bases de datos** | `MySQL` `MongoDB` `SQL Server` |
+| **Herramientas** | `Git` `GitHub` `VS Code` |
+| **IA aplicada** | `GitHub Copilot` `Claude Code` `ChatGPT API` |
+
+<br>
+
+---
+
+<br>
+
+![](https://img.shields.io/badge/03-PROYECTOS-58A6FF?style=flat-square&labelColor=0D1117)
+
+## Proyectos destacados
+
+<sub>Soluciones desarrolladas para organizaciones y empresas reales — desde la construcción hasta el despliegue en producción.</sub>
+
+<br>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### PaginaWeb_Inngloba
+<sub>⭐ PROYECTO DESTACADO</sub>
 
-Sitio web corporativo para una empresa del sector de eventos y decoración, con administración de productos y gestión de información.
+### PaginaWeb_Sostenibilidad
 
-**Repositorio:** `Repositorio próximamente`
+Aplicación web para una institución educativa que fortalece la participación estudiantil en iniciativas de sostenibilidad.
 
-</td>
-<td width="50%" valign="top">
+`Python` `Flask` `Django` `SQL` `HTML` `CSS` `JavaScript`
 
-### PaginaWeb_Dismets
+<sub>Registro y autenticación · Panel administrativo · Moderación de publicaciones · Comentarios, likes y dislikes · Base de datos integrada</sub>
 
-Sitio web corporativo para una empresa del sector industrial, enfocado en visibilidad de servicios y contacto comercial.
-
-**Repositorio:** `Repositorio próximamente`
+<code>Repositorio próximamente</code>
 
 </td>
 </tr>
 </table>
 
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**PaginaWeb_Inngloba**
+
+Sitio web corporativo para una empresa del sector de eventos y decoración, con administración de productos y gestión de información.
+
+<code>Repositorio próximamente</code>
+
+</td>
+<td width="50%" valign="top">
+
+**PaginaWeb_Dismets**
+
+Sitio web corporativo para una empresa del sector industrial, enfocado en visibilidad de servicios y contacto comercial.
+
+<code>Repositorio próximamente</code>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
-## Actualmente enfocado en
+<br>
 
-* Desarrollo de Software
-* Desarrollo Web
-* Backend Development
-* Full Stack Development
-* Integración de herramientas de IA en procesos de desarrollo
+![](https://img.shields.io/badge/04-IA%20+%20DESARROLLO-A78BFA?style=flat-square&labelColor=0D1117)
+
+## IA × Desarrollo
+
+<div align="center">
+
+`ANALIZAR` → `CONSTRUIR` → `REVISAR` → `REFACTORIZAR` → `DOCUMENTAR`
+
+</div>
+
+<br>
+
+Utilizo inteligencia artificial como apoyo dentro de mi proceso de desarrollo, no como reemplazo de mis conocimientos.
+
+`GitHub Copilot` `Claude Code` `ChatGPT API`
+
+<br>
 
 ---
+
+<br>
+
+![](https://img.shields.io/badge/05-SEGURIDAD-58A6FF?style=flat-square&labelColor=0D1117)
+
+## Seguridad y buenas prácticas
+
+Mis proyectos incluyen registro, autenticación y paneles administrativos con control de acceso. Sigo fortaleciendo mis conocimientos en seguridad de aplicaciones y buenas prácticas de desarrollo.
+
+<br>
+
+---
+
+<br>
+
+![](https://img.shields.io/badge/06-APRENDIENDO-58A6FF?style=flat-square&labelColor=0D1117)
+
+## Actualmente aprendiendo
+
+Sigo fortaleciendo mis bases en desarrollo Full Stack y explorando nuevas herramientas de IA aplicadas al proceso de desarrollo.
+
+<br>
+
+---
+
+<br>
+
+![](https://img.shields.io/badge/07-CONTACTO-58A6FF?style=flat-square&labelColor=0D1117)
 
 ## Contacto
 
-GitHub: Jhoan2626
+<div align="center">
 
-LinkedIn: linkedin.com/in/consultorjhoan
+<a href="https://github.com/Jhoan2626"><img src="https://img.shields.io/badge/GitHub-Jhoan2626-58A6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/consultorjhoan"><img src="https://img.shields.io/badge/LinkedIn-consultorjhoan-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
 
-Bogotá D.C., Colombia
+<br><br>
 
----
+<sub>Bogotá D.C., Colombia</sub>
 
-> "Desarrollando soluciones reales mientras construyo mi camino como Software Developer."
+</div>
+
+<br>
